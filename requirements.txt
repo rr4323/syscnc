@@ -1,0 +1,7 @@
+
+django
+channels
+daphne
+websockets
+http2
+twisted[http2,tls]
